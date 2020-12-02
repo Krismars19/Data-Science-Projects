@@ -1,0 +1,3 @@
+nltk
+urllib.request
+bs4
