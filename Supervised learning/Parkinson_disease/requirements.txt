@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly.express
+os
+sklearn
+xgboost
+pandas-profiling==2.7.1
